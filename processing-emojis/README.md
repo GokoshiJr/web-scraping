@@ -1,23 +1,31 @@
-Phases implemented during project development:
+## processing-emojis
 
-Phase 1: Diagnosis of the situation
+### Phases implemented during project development:
 
-Write a python program that can deal with emojis un the text data
+### Phase 1: Diagnosis of the situation:
 
-Phase 2: Determination of functional and non-functional requirements
+- Write a python program that can deal with emojis in the text data.
 
-Fill each specified column with the extracted data
+![alt view](https://github.com/GokoshiJr/web-scraping/blob/master/processing-emojis/assets/explain.jpg)
 
-User-friendly graphical interface to run the program
+### Phase 2: Determination of functional and non-functional requirements:
 
-Phase 3: Design of a system through the XP methodology
+- Fill each specified column with the extracted data.
 
-Develop the program in python with the necessary libraries
+- User-friendly graphical interface to run the program.
 
-Phase 4: System testing to verify that the system is working properly.
+### Phase 3: Design of a system through the XP methodology:
 
-Program testing
+- Develop the program in python with the necessary libraries.
 
-Writing of user documentation
+### Phase 4: System testing to verify that the system is working properly:
 
-User support
+- Screenshots.
+
+![alt view](https://github.com/GokoshiJr/web-scraping/blob/master/processing-emojis/assets/result.jpg)
+
+- Program testing.
+
+- Write user documentation.
+
+- User support.
